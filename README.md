@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |Mohammed Kabeer Sheriff U | **Reg. No.:** | |26018980
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |16-11-26 | **Batch / Section:** | |
 
 ---
 
@@ -46,40 +46,25 @@ To control the status of the given lamp by using two-way switches.
 ## A. DIRECT CONNECTION
 
 ### Circuit diagram
+<img width="524" height="366" alt="image" src="https://github.com/user-attachments/assets/004ea363-6782-4fe9-8609-d465a6ee198b" />
 
-*[ Insert the direct connection circuit diagram here ]*
-
-**Figure 1:** Staircase wiring – direct connection
-
-### Tabulation 1: Truth table – direct connection
-
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+
+<img width="428" height="266" alt="image" src="https://github.com/user-attachments/assets/aab37241-ab1e-485e-bd57-d6725f10ef15" />
+
+
 
 ## B. CROSS CONNECTION
 
 ### Circuit diagram
+<img width="797" height="404" alt="image" src="https://github.com/user-attachments/assets/25aa4d19-3d53-4eaa-a494-fb776ca9c3f2" />
 
-*[ Insert the cross connection circuit diagram here ]*
 
-**Figure 2:** Staircase wiring – cross connection
 
 ### Tabulation 2: Truth table – cross connection
+<img width="487" height="326" alt="image" src="https://github.com/user-attachments/assets/0a80d5ad-4457-4b86-927b-945bd1bc26d2" />
 
-*Enter the switch position as UP / DOWN (or 1 / 0) and the lamp status as ON / OFF for each combination.*
-
-| S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
-|:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
 
 ## SIMULATION USING PROTEUS
 
